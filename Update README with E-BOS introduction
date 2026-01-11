@@ -13,3 +13,17 @@ It is designed to support systems where:
 - and human dignity must be preserved within automated and semi-automated processes.
 
 E-BOS functions as a governing layer that aligns policy, behaviour, and system logic without replacing existing frameworks or institutional controls.
+## Why E-BOS Exists
+
+Modern institutional systems are increasingly complex, distributed, and automated — yet the mechanisms used to govern ethical behaviour have not evolved at the same pace.
+
+Ethical intent is often expressed through policies, values statements, or compliance frameworks, but these rarely translate into operational decision logic within real systems.
+
+As a result, organisations face:
+- ethical principles that exist on paper but not in practice,
+- automated or semi-automated decisions without auditable reasoning,
+- fragmented accountability across people, vendors, and systems,
+- misalignment between incentives, governance, and outcomes,
+- and preventable harm caused by rigid or context-blind logic.
+
+E-BOS exists to bridge this gap by providing a structured ethical behaviour layer that can operate within real institutional environments without replacing existing governance or control mechanisms.
