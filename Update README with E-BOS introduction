@@ -67,3 +67,22 @@ Its foundations draw on:
 This repository focuses on defining the E-BOS field and its integration posture.
 
 Detailed implementation models, evaluation artefacts, and applied methodologies are shared through licensed engagement, institutional pilots, and research partnerships.
+## Integration Overview (High-Level)
+
+E-BOS is designed to integrate as an ethical behaviour layer rather than a replacement system.
+
+At a high level, E-BOS can be introduced alongside existing:
+- governance and compliance frameworks,
+- operational systems and workflows,
+- decision-support and automation tools,
+- audit, assurance, and oversight mechanisms.
+
+Integration focuses on:
+- observing decision contexts and constraints,
+- evaluating ethical alignment at key decision points,
+- recording auditable reasoning trails,
+- supporting human accountability rather than removing it.
+
+E-BOS does not dictate decisions.
+
+It provides structured ethical oversight that allows institutions to understand *how* decisions were reached, *why* they were permissible, and *where* risk or misalignment may exist.
